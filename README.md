@@ -1,4 +1,5 @@
 README
+
 Getting and Cleaning Data Assignement - Coursera
 Célia F. Cruz 2016
 
