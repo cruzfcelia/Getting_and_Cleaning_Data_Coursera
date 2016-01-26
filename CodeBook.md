@@ -1,12 +1,17 @@
 CodeBook
+
 Getting and Cleaning Data Assignement -Coursera
+
 Célia F. Cruz 2016
 
 The codebook summarizes the R script and resulting data fields in tidy_data.txt.
 
 Identifiers of tidy_data.txt
+
 subject: ID of the subject
+
 activity: Type of activity performed when the corresponding measurements were taken
+
 
 Measurements of tidy_data.txt
 "tBodyAccMeanX"
